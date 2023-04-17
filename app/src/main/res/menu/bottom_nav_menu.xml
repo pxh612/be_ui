@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/beFragment"
+        android:icon="@drawable/motorbike"
+        android:title="trang chủ" />
+
+    <item
+        android:icon="@drawable/clock"
+        android:title="Hoạt động" />
+
+    <item
+        android:id="@+id/ddEventFragment"
+        android:icon="@drawable/gift"
+        android:title="Đổi ưu đãi" />
+
+    <item
+        android:icon="@drawable/account_avatar_person"
+        android:title="Tài khoản" />
+
+
+</menu>
