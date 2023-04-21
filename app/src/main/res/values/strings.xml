@@ -3,4 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="homeTabTitle">trang chủ</string>
+    <string name="activityTabTitle">Hoạt động</string>
+    <string name="GiftTabTitle">Đổi ưu đãi</string>
+    <string name="AccountTabTitle">Tài khoản</string>
 </resources>

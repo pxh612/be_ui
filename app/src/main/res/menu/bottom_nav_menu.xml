@@ -4,20 +4,22 @@
     <item
         android:id="@+id/beFragment"
         android:icon="@drawable/motorbike"
-        android:title="trang chủ" />
+        android:title="@string/homeTabTitle" />
 
     <item
+        android:id="@+id/activity"
         android:icon="@drawable/clock"
-        android:title="Hoạt động" />
+        android:title="@string/activityTabTitle" />
 
     <item
-        android:id="@+id/ddEventFragment"
+        android:id="@+id/gift"
         android:icon="@drawable/gift"
-        android:title="Đổi ưu đãi" />
+        android:title="@string/GiftTabTitle" />
 
     <item
+        android:id="@+id/account"
         android:icon="@drawable/account_avatar_person"
-        android:title="Tài khoản" />
+        android:title="@string/AccountTabTitle" />
 
 
 </menu>

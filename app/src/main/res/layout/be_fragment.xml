@@ -6,7 +6,8 @@
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#EAE6E6">
+        android:background="#EAE6E6"
+        android:foregroundTint="@color/black" >
 
 
 
